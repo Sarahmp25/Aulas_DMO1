@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversor da Sah</string>
+    <string name="titulo_conversor">CÂMBIO</string>
+    <string name="rotulo_valor">Valor:</string>
+    <string name="rotulo_resultado">Resultado:</string>
+    <string name="botao_converter">Converter</string>
+    <string name="resultado_vazio">...</string>
+    <string name="erro_valor_invalido">Digite um valor válido</string>
+
+    <string-array name="moedas_array">
+        <item>REAL</item>
+        <item>DÓLAR</item>
+        <item>EURO</item>
+    </string-array>
+</resources>
